@@ -50,7 +50,7 @@ It is platform which allows a user to report Pothole in their neighbouring area 
 - Location/GPS
 
 ## SCREENSHOTS
-  <img src="ScreenShots/img1" width="350" title="hover text">
+  <img src="ScreenShots/img1.jpg" width="350" title="hover text">
 
 
 ## **Thank You**
