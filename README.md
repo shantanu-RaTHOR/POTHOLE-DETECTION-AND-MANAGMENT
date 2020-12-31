@@ -1,6 +1,6 @@
 # POTHOLE-DETECTION-AND-MANAGMENT
 
-<h1 align="center"> Pithole Management</h1>
+<h1 align="center"> Pothole Management</h1>
 It is platform which allows a user to report Pothole in their neighbouring area seamlessly. Also, using this platform, officials can resolve the reported issues easily and the concerened user gets notified.
 
 <hr>
@@ -54,11 +54,11 @@ It is platform which allows a user to report Pothole in their neighbouring area 
   <img src="ScreenShots/img1.jpg"  title="IMAGE 1">
   
    ## 2
-  <img src="ScreenShots/img2.jpg" width="600" title="IMAGE 2">
+  <img src="ScreenShots/img2.jpg" width="800" title="IMAGE 2">
   
   
    ## 3
-  <img src="ScreenShots/img3.jpg"  title="IMAGE 3">
+  <img src="ScreenShots/img3.jpg" width="800"  title="IMAGE 3">
 
 
 ## **Thank You**
