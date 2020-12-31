@@ -18,6 +18,7 @@
 ## Links
 - **Android Apk**: https://drive.google.com/file/d/1-9bX1CjyYlOCvJHYFp17mPUUYzIde3sN/view
 - **App video**: https://drive.google.com/file/d/1YxTv-GC-2Izr3-fkDaKkUHaVvjdNX72e/view
+- **Web Video**: https://drive.google.com/file/d/1lcr8aDisq8QzQL54eXcNReT5wztIlVyT/view
 - **Frontend**: https://bugslayerss.netlify.app/public/login
 - **Backend**: https://bug-slayerss.herokuapp.com
 - **PPT link**: https://www.canva.com/design/DAERe-IBHd4/w2wLb6KcIpFRsbORCLuiDA/view?utm_content=DAERe-IBHd4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
