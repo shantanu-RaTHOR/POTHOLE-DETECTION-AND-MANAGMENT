@@ -54,7 +54,7 @@ It is platform which allows a user to report Pothole in their neighbouring area 
   <img src="ScreenShots/img1.jpg"  title="IMAGE 1">
   
    ## 2
-  <img src="ScreenShots/img2.jpg" title="IMAGE 2">
+  <img src="ScreenShots/img2.jpg" width="600" title="IMAGE 2">
   
   
    ## 3
