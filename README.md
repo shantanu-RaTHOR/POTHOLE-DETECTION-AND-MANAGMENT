@@ -1,5 +1,5 @@
 
-<h1 align="center"> POTHOLE DETECTION AND MANAGMENT</h1>
+<h1 align="center"> PITHOLE DETECTION AND MANAGMENT</h1>
  This project was built for smart managment of potholes.It allows a user to report Pothole in their neighbouring area seamlessly. Also, using this platform, officials can resolve the reported issues easily and the concerened user gets notified.
 
 <hr>
