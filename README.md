@@ -10,7 +10,8 @@
 <li> User can report pothole using the app
 <li> Using the <strong>ML model</strong> the app detect whether the clicked picture is of a pothole or not </li>
 <li> The location of user get detected automatically </li>
-<li> Once the issue is reported a concerned official can solve that issue using the web application </li>
+ <li>Separate web application for officials.
+<li> Once the issue is reported a concerned official can solve that issue using the <strong> web application</strong> </li>
 <li> When the issue is resolved the concerned user is notified through email </li>
 </li>
 </ul>
@@ -22,14 +23,6 @@
 - **Frontend**: https://bugslayerss.netlify.app/public/login
 - **Backend**: https://bug-slayerss.herokuapp.com
 - **PPT link**: https://www.canva.com/design/DAERe-IBHd4/w2wLb6KcIpFRsbORCLuiDA/view?utm_content=DAERe-IBHd4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
-
-## Browser Support
-- **Firefox**:	version 4 and up
-- **Chrome**:	any version
-- **Safari**:	version 5.2 and up
-- **Internet Explorer/Edge**:	version 8 and up
-- **Opera**:	version 9 and up
-<!-- > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now. -->
 
 ## Requirements (Android)
 - MIN SDK VERSION 21
